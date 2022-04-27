@@ -2,6 +2,8 @@
 
 简介：一个简单的计算器app，可以实现基本的十进制和二进制运算。
 
+ref: https://github.com/grkid/Cal
+
 #### 1、功能
 
 使用说明：
