@@ -56,7 +56,7 @@
 首先完成`Calculator`类的初始化：
 
 ```java
-	public static final int DEC = 10; // 十进制
+    public static final int DEC = 10; // 十进制
     // public static final int HEX = 16;
     public static final int BIN = 2;
     private String expression; // 表达式
